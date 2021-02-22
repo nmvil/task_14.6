@@ -6,6 +6,10 @@
 	$city = 'Москва';
 	$age = 21;
 
-	$phpLogo = 'img/php-logo.svg';
-	$myPhoto = 'img/myPhoto.png';
+	$phpLogo = "<img class='logo' src='img/php-logo.svg'>";
+	$myPhoto = "<img class='photo' src='img/myPhoto.png'>";
+?>
+
+<?php
+	include 'main.php';
 ?>
