@@ -14,7 +14,7 @@
 	<div class="about">
 		<div> <?php echo $myPhoto ?> </div>
 		<p>
-			Меня зовут <?php echo $name, ' ', $surname ?> <br>
+			Меня зовут <?php echo $name, ' ', $surname, 'мне ', $age, ' лет' ?> <br>
 			город <?php echo $city ?> <br>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
             Recusandae asperiores ducimus dolore explicabo. Animi est amet quibusdam molestias! 
