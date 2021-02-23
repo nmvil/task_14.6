@@ -2,14 +2,18 @@ body {
 	font-family: Helvetica;
 }
 
-.header {
+.header, .footer {
 	background-color: #FF9834;
 	border-radius: 10px;
 	display: flex;
 	flex-direction: row;
-	font-size: 1.5em;
+	font-size: 1.3em;
 	padding: 10px;
 
+}
+
+.copyright {
+	width: 75%;
 }
 
 li a {
@@ -38,6 +42,7 @@ h1 {
 
 .photo {
 	width: 350px;
+	border-radius: 10px;
 }
 
 .about {
@@ -45,6 +50,14 @@ h1 {
 	flex-direction: row;
 	padding: 10px;
 }
+
+.knowledge {
+	padding: 15px;
+	font-size: 1.2em;
+	text-align: center;
+	width: 100%;
+}
+
 
 p {
 	padding: 20px;

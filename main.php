@@ -21,6 +21,8 @@
             Minus laudantium sapiente dignissimos possimus natus cumque delectus sed, accusantium totam quia?
         </p>
 	</div>
+	<div class="knowledge"> <?php include 'knowledge.inc.php' ?>  </div>
+	<div class="footer"> <?php include 'footer.inc.php' ?> </div>
 </div>
 </body>
 </html>
